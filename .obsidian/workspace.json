@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "ed743a0899971c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "e886be8e79b173c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0196d9159bd93ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "470986b4f732cf01",
+    "type": "split",
+    "children": [
+      {
+        "id": "23580d4f1b34edf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919b0a7f4b51af86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7a4de44439d11bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d20452cd359ac178",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2935525e24d732ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c87b62a5287e1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465b3955d5fa4c5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. SQL Injection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75a0ce811998b9ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. SQL Injection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e099dbf6bb84ba61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "021b4cb57f9259fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. SQL Injection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "0196d9159bd93ac7",
+  "lastOpenFiles": [
+    "Penetration Test/Presentación SECOF.canvas",
+    "Imagenes/Captura de pantalla 2023-09-07 a la(s) 19.12.20.png",
+    "Imagenes/Captura de pantalla 2023-10-11 a la(s) 16.13.07.png",
+    "Imagenes/Captura de pantalla 2023-10-09 a la(s) 16.58.15.png",
+    "Imagenes/Captura de pantalla 2023-10-10 a la(s) 21.15.44.png",
+    "Imagenes/Captura de pantalla 2023-08-25 a la(s) 15.12.44.png",
+    "Imagenes/Screenshot_2.png",
+    "Imagenes/Captura de pantalla 2023-09-28 a la(s) 19.34.09.png",
+    "Imagenes/Captura de pantalla 2023-09-26 a la(s) 19.41.27.png",
+    "Imagenes/logo-01_Mesa-de-trabajo-1.png",
+    "Imagenes/Captura de pantalla 2023-09-03 a la(s) 16.05.31.png",
+    "Imagenes/Malware SandBox.pdf",
+    "Imagenes/New Graph (1).pdf",
+    "Imagenes/ScanOpen_13_0.pdf",
+    "Imagenes/ScanNessus_13_0_5ahjod.pdf",
+    "Imagenes/ScanNessus_5_0_sck2z6.pdf",
+    "Imagenes/ScanNessus_WInvitado_9zlr66 1.pdf",
+    "Imagenes/ScanOpen_5_0.pdf",
+    "Imagenes/ScanNessus_1_0_x3uu6y.pdf",
+    "Imagenes/ScanOpen_1_0.pdf",
+    "Imagenes/ScanNessus_WInvitado_9zlr66.pdf",
+    "1. SQL Injection.md",
+    "Penetration Test/6. Borrar Rastros.md",
+    "Penetration Test/1. NDA.md",
+    "README.md",
+    "🧰 Seguridad Ofensiva 🧰.md",
+    "Penetration Test/7. Informe.md",
+    "Penetration Test/5. Post Explotación - Mantener Acceso.md",
+    "Penetration Test/4. Explotación - Ganar Acceso.md",
+    "Penetration Test/3. Enumeración.md",
+    "Penetration Test/2. Reconocimiento.md"
+  ]
+}
